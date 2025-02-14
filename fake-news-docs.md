@@ -127,7 +127,7 @@ prediction = classifier.predict_single(text)
 5. Add data visualization components
 
 For more detailed information and presentation materials, please refer to the presentation:
-[Fake News Detection Presentation](address_link_of_PPT)
+[Fake News Detection Using ML Presentation]
 
 ## Project Conclusions
 - Both models show strong performance in detecting fake news
